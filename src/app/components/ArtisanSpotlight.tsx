@@ -118,6 +118,25 @@ export const ArtisanSpotlight = ({
               >
                 📍 {location}
               </span>
+              
+              {/* Meet Our Makers Link */}
+              <div className="mt-4">
+                <Link 
+                  to="/makers"
+                  style={{
+                    fontFamily: 'var(--font-sans)',
+                    fontSize: '13px',
+                    letterSpacing: '1.5px',
+                    textTransform: 'uppercase',
+                    color: '#C75B3A',
+                    fontWeight: 500,
+                    textDecoration: 'none',
+                  }}
+                  className="hover:opacity-70 transition-opacity"
+                >
+                  Meet Our Makers →
+                </Link>
+              </div>
             </div>
           </div>
         </div>

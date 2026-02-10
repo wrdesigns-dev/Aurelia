@@ -14,13 +14,13 @@ interface Maker {
 const makers: Maker[] = [
   {
     id: 1,
-    name: 'Elena Vasquez',
-    craft: 'Textile Designer',
-    location: 'Red Hook, Brooklyn',
-    image: 'https://images.pexels.com/photos/6605800/pexels-photo-6605800.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
-    story: 'Elena runs a sun-drenched studio overlooking the Red Hook waterfront, where she creates our signature linen and organic cotton pieces. Originally from Peru, she brings fifteen years of textile experience and a deep commitment to natural dyes and sustainable practices. Her morning ritual involves brewing mate tea while watching cargo ships glide past her windows, followed by hours at her vintage loom. Each piece she creates carries the rhythm of slow, intentional craft.',
-    specialty: 'Linen Overshirts, Organic Cotton Basics',
-    signature: 'Elena V.',
+    name: 'Elena Martinez',
+    craft: 'Founder & Creative Director',
+    location: 'Williamsburg, Brooklyn',
+    image: 'https://images.pexels.com/photos/7679464/pexels-photo-7679464.jpeg',
+    story: 'Originally from Peru, Elena Martinez founded Aurelia in Williamsburg as a sanctuary for intentional design. With fifteen years of textile expertise, she develops signature organic linen apparel and hand-finished accessories using sustainable practices. Elena\'s mission centers on connection, uniting a global collective of artists to ensure every piece tells a story of collaborative craft. From her vintage loom, she curates collections that bridge her Peruvian heritage with Brooklyn\'s independent maker spirit.',
+    specialty: 'Organic Linen Apparel, Hand-finished Accessories',
+    signature: 'Elena Martinez',
   },
   {
     id: 2,

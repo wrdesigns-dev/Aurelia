@@ -172,9 +172,9 @@ export const Home = () => {
       {/* Artisan Spotlight */}
       <ArtisanSpotlight
         artisanName="Elena Martinez"
-        artisanTitle="Textile Designer"
+        artisanTitle="Founder & Creative Director"
         image="https://images.pexels.com/photos/7679723/pexels-photo-7679723.jpeg"
-        story="Elena works from a sunlit studio in Williamsburg, hand-dyeing organic linen and silk using traditional Japanese indigo techniques. Each piece she creates carries the mark of her hands—subtle variations that make every garment truly one of a kind. Her process is slow, intentional, and deeply rooted in respect for the material."
+        story="Peruvian-born Elena founded Aurelia from her Williamsburg studio as a haven for intentional craft. Specializing in organic linen and hand-finished accessories, she unites a global network of makers to create collections where sustainable practices meet collaborative artistry. Her work bridges heritage textile traditions with Brooklyn's independent spirit."
         location="Williamsburg, Brooklyn"
       />
 
